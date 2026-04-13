@@ -9,8 +9,8 @@ I enjoy building projects, learning new technologies, and turning ideas into rea
 
 - 🎓 Student / Developer / Gamer
 - 💻 Currently working on: **[IskoBot](https://github.com/lexcetera/IskoBot)**
-- 🎯 Goal: **[Become a Data Scientist!]**
-- ⚡ Fun fact: **[I am obsessed with penguins.]**
+- 🎯 Goal: **Become a Data Scientist!**
+- ⚡ Fun fact: **I am obsessed with penguins.**
 
 ---
 
@@ -39,7 +39,7 @@ I enjoy building projects, learning new technologies, and turning ideas into rea
 
 ## ⚡ Quote I Like
 
-> “I Don’t Want To Be A Product Of My Environment. I Want My Environment To Be A Product Of Me.” - The Departed (2006)
+> “If you want it, you must will it. And if you will it, it will be yours.” - Happy Feet (2006)
 
 ---
 
