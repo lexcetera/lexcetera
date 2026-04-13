@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey, I'm Lex.
 
-<!--
-**lexcetera/lexcetera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. 
+I enjoy building projects, learning new technologies, and turning ideas into real applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Student / Developer / Gamer
+- 💻 Currently working on: **[IskoBot](https://github.com/lexcetera/IskoBot)**
+- 🎯 Goal: **[Become a Data Scientist!]**
+- ⚡ Fun fact: **[I am obsessed with penguins.]**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
+**Tools & Frameworks:**  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: eiman.gertrofelix@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/lexcetera  
+- 💬 Discord: lexcetera  
+
+---
+
+## ⚡ Quote I Like
+
+> “I Don’t Want To Be A Product Of My Environment. I Want My Environment To Be A Product Of Me.” - The Departed (2006)
+
+---
+
+⭐ Thanks for visiting my profile!
