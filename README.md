@@ -5,10 +5,6 @@ I enjoy building projects, learning new technologies, and turning ideas into rea
 
 ---
 
-I am a freshman statistics student at University of the Philippines - Diliman.
-
----
-
 ## 🚀 About Me
 
 - 🎓 Student / Developer / Gamer
