@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile. 
 I enjoy building projects, learning new technologies, and turning ideas into real applications.
+I am a freshman statistics student at University of the Philippines - Diliman.
 
 ---
 
